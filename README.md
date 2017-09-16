@@ -46,3 +46,8 @@
     [self.layer addSublayer:shapeLayer];
 }
 ```
+
+```
+like this:
+```
+![image](https://github.com/xjh093/Draw-a-dash-line/blob/master/dash%20line.png)
